@@ -1,6 +1,6 @@
 {
   "name": "math-snippets",
-  "version": "0.0.0",
+  "version": "0.2.0",
   "description": "Math snippets for LaTeX and Markdown",
   "repository": "https://github.com/atom/math-snippets",
   "license": "MIT",

@@ -1,6 +1,6 @@
 ".text.tex.latex, .source.gfm, .text.html":
   "function":
-    "prefix": "sum"
+    "prefix": "min"
     "body": """
-    \\sum_{${1:i=1}}^{${2:n}} $3
+    \\min \\{ ${1:X_1}, ${2:X_2} \\} $0
     """

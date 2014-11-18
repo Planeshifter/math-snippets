@@ -1,0 +1,6 @@
+".text.tex.latex, .source.gfm, .text.html":
+  "function":
+    "prefix": "dint"
+    "body": """
+    \\int_{${1:-\\infty}}^${2:\\infty} ${3:f(x)} \\, d${4:x} $0
+    """

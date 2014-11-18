@@ -1,6 +1,6 @@
 ".text.tex.latex, .source.gfm, .text.html":
   "function":
-    "prefix": "sum"
+    "prefix": "lim"
     "body": """
-    \\sum_{${1:i=1}}^{${2:n}} $3
+    \\lim_{${1:x} \\to ${2:\\infty}} $0
     """

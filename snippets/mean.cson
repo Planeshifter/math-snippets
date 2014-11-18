@@ -1,6 +1,6 @@
 ".text.tex.latex, .source.gfm, .text.html":
   "function":
-    "prefix": "sum"
+    "prefix": "mean"
     "body": """
-    \\sum_{${1:i=1}}^{${2:n}} $3
+    \\mathbb{E}_{${2:}} \\left[ ${1:X} \\right] $0
     """

@@ -22,9 +22,6 @@
   'varepsilon':
     'prefix': 'epsilon'
     'body': 'varepsilon'
-  'epsilon':
-    'prefix': 'varepsilon'
-    'body': 'epsilon'
   'zeta':
     'prefix': 'z'
     'body': '\\zeta'
@@ -37,9 +34,6 @@
   'vartheta':
     'prefix': '\\theta'
     'body': '\\vartheta'
-  'theta':
-    'prefix': '\\vartheta'
-    'body': '\\theta'
   'iota':
     'prefix': 'i'
     'body': '\\iota'
@@ -170,17 +164,8 @@
     'prefix': 'in'
     'body': '\\int'
   'infty':
-    'prefix': 'int'
+    'prefix': 'inf'
     'body': 'infty'
-  'int':
-    'prefix': 'infty'
-    'body': 'int'
-  'sum':
-    'prefix': 'su'
-    'body': '\\sum'
-  'sup':
-    'prefix': 'sum'
-    'body': 'sup'
   'succ':
     'prefix': 'sup'
     'body': 'succ'
