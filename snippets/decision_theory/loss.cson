@@ -1,0 +1,6 @@
+".text.tex.latex, .source.gfm, .text.html":
+  "function":
+    "prefix": "loss"
+    "body": """
+    L \\left( ${1:\\theta}, \\hat ${1\\theta} \\right) $0
+    """
